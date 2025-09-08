@@ -16,7 +16,8 @@ Prérequis
 Assurez-vous d'avoir Python installé sur votre système.
 
 Dépendances
-Ce script utilise des bibliothèques Python standards qui sont généralement incluses avec l'installation de base de Python, donc aucune installation supplémentaire n'est requise.
+Ce script utilise des bibliothèques Python standards qui sont généralement incluses avec l'installation de base de Python.
+Si vous rencontrez des problèmes, assurez-vous que les bibliothèques sont installées.
 
 tkinter : Utilisé pour créer l'interface graphique.
 
