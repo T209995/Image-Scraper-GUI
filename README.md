@@ -81,7 +81,3 @@ python img.py
 ## Remerciements
 
 Ce projet a été démarré avec une aide partielle fournie par un assistant IA.
-
-## Licence
-
-(Ajoutez ici la licence de votre choix si vous souhaitez en préciser une.)
